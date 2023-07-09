@@ -16,3 +16,5 @@ skybox material の mix には非対応。
    ![](./images/1.png)
 
 2. ` Timeline` で `Skybox Time` を追加し、skybox material を複数追加する
+https://github.com/vshige/SkyboxTimeline/assets/98008312/24503273-91b0-4a59-9dff-ca1584b51dd1
+
