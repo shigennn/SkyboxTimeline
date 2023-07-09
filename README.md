@@ -13,6 +13,6 @@ skybox material の mix には非対応。
 ## 使い方
 
 1. Script を UnityEditor に取り込む
-   ![](./image/1.png)
+   ![](./images/1.png)
 
 2. ` Timeline` で `Skybox Time` を追加し、skybox material を複数追加する
