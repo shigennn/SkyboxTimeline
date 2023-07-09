@@ -4,7 +4,7 @@ using UnityEngine.Timeline;
 
 [TrackColor(0.53f, 0.74f, 0.87f)]
 [TrackClipType(typeof(SkyboxTimelineAsset), false)]
-public class SkyboxTimelineTrack : TrackAsset
+public class SkyboxTrack : TrackAsset
 {
     public override Playable CreateTrackMixer(PlayableGraph graph, GameObject go, int inputCount)
     {
